@@ -8,3 +8,10 @@ By language, I mean that this program can do your conversions with language whic
 
 For those who don't have "WINRAR" or "7Z" to extract the ".rar" file, I've also compressed the same file in ".zip" format so it'll be easy for your Windows Explorer to 
 easily extract the file without downloading any extra application. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+I've recently updated this program. Took me about 3 days to update it. If I say more accurately, it took me non-stop 12 hours. 
+What I added is amazing! It can now perform all of your fractional DHBO conversions in step-wise-step language format which you can easily copy.
+Previously, it didn't support fractional calculations but now it does.
+
+This simply means that it can perform all of the Class X & XII questions easily and I mean it. ENJOY!!
