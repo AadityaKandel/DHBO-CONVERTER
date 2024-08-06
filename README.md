@@ -14,4 +14,11 @@ I've recently updated this program. Took me about 3 days to update it. If I say 
 What I added is amazing! It can now perform all of your fractional DHBO conversions in step-wise-step language format which you can easily copy.
 Previously, it didn't support fractional calculations but now it does.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Note: The app I uploaded on releases has a few changes. It has been given a version name and the title has been changed from "DHBO CONVERTER BY Aaditya Kandel" to
+"DHBO Converter" Those who will download the file directly from the repository will have the previous file and those who download from release will have the changed
+file. That's all. No other changes are done.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 This simply means that it can perform all of the Class X & XII questions easily and I mean it. ENJOY!!
